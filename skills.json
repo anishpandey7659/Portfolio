@@ -1,0 +1,67 @@
+[
+
+
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+      {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+       {
+        "name": "LangChain",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png"
+    },
+        {
+        "name": "LangGraph",
+        "icon": "langgraph-color.ico"
+    },
+          {
+        "name": "LangSmith",
+        "icon": "langsmith-color.ico"
+    },
+           {
+        "name": "FastAPI",
+        "icon": "fastapi.png"
+
+    },
+               {
+        "name": "Scikit-Learn",
+        "icon":"scikitlearn.png"
+    
+     },
+                  {
+        "name": "Pytorch",
+        "icon":"https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000"
+    },
+     {
+        "name": "Numpy",
+        "icon":"https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000"
+    },
+     {
+        "name": "Pandas",
+        "icon":"https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000"
+    },
+        {
+        "name": "Docker",
+        "icon":"https://img.icons8.com/?size=100&id=22813&format=png&color=000000"
+    }
+
+   
+   
+]
